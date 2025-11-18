@@ -172,7 +172,7 @@ hr {
     width: 200px;
     height: 200px;
     object-fit: contain;
-    transition: transform 0.25;
+    transition: transform 0.2s;
 }
 
 .works li :hover {
@@ -302,4 +302,5 @@ footer {
   }
 }
    
+
 
